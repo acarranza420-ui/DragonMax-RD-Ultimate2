@@ -1,0 +1,20 @@
+{
+  "builds": [
+    {
+      "name": "DragonMax RD Ultimate v6.0",
+      "target": "Kodi 21 Omega / Fire Stick 4K Max",
+      "type": "legal theme and wizard starter",
+      "features": [
+        "DragonMax Concierge",
+        "Netflix-style hero rows",
+        "Living Realms",
+        "Dragon Portal QR upload",
+        "Quick Connect Service Hub",
+        "Office Panel",
+        "Audio & Theater Center",
+        "Maintenance Recovery Center"
+      ],
+      "payload_url": "REPLACE_WITH_YOUR_GITHUB_PAGES_BUILD_ZIP_URL"
+    }
+  ]
+}
